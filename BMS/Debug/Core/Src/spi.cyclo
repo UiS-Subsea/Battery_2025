@@ -1,0 +1,10 @@
+../Core/Src/spi.c:12:6:SPI_Devices_Init	1
+../Core/Src/spi.c:38:6:CS_Overvoker_Enable	1
+../Core/Src/spi.c:42:6:CS_Overvoker_Disable	1
+../Core/Src/spi.c:45:6:CS_Balanserer_Enable	1
+../Core/Src/spi.c:49:6:CS_Balanserer_Disable	1
+../Core/Src/spi.c:52:6:CS_TempIC_Enable	1
+../Core/Src/spi.c:55:6:CS_TempIC_Disable	1
+../Core/Src/spi.c:61:19:SPI_SendReceive	1
+../Core/Src/spi.c:66:19:SPI_Send	1
+../Core/Src/spi.c:71:19:SPI_Receive	1

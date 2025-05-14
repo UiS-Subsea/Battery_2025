@@ -1,0 +1,8 @@
+../Core/Src/overvoker.c:87:6:Overvoker_Init	8	static
+../Core/Src/overvoker.c:93:6:Overvoker_findRegisters	4	static
+../Core/Src/overvoker.c:102:9:Overvoker_getPEC	24	static
+../Core/Src/overvoker.c:118:6:Overvoker_writeRegisters	24	static
+../Core/Src/overvoker.c:139:6:Overvoker_readVolts	24	static
+../Core/Src/overvoker.c:185:12:compare_floats	24	static
+../Core/Src/overvoker.c:191:6:Overvoker_EvaluateBalance	88	static
+../Core/Src/overvoker.c:214:6:Overvoker_readTemp	56	static

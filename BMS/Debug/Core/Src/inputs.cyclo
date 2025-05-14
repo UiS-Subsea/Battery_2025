@@ -1,0 +1,2 @@
+../Core/Src/inputs.c:11:6:Inputs_Init	1
+../Core/Src/inputs.c:35:9:Power_meas_Alert	1
