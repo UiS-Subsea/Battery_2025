@@ -1,7 +1,0 @@
-../Core/Src/ina238.c:11:19:INA238_ReadRegister	2
-../Core/Src/ina238.c:22:19:INA238_WriteRegister	1
-../Core/Src/ina238.c:29:19:INA238_Init	1
-../Core/Src/ina238.c:35:7:INA238_GetBusVoltage	2
-../Core/Src/ina238.c:41:7:INA238_GetShuntVoltage	2
-../Core/Src/ina238.c:47:7:INA238_GetCurrent	2
-../Core/Src/ina238.c:54:7:INA238_GetPower	2

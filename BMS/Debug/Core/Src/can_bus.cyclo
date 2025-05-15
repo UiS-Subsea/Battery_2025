@@ -1,3 +1,0 @@
-../Core/Src/can_bus.c:11:6:CAN_Init	1
-../Core/Src/can_bus.c:20:19:CAN_Send	1
-../Core/Src/can_bus.c:36:19:CAN_Receive	2
